@@ -1,4 +1,5 @@
-# whale_in_10s
+# whale_in_10s 
+Took 2.30hrs for writing code and execution.
 # epicor
 Total Word Count (after exclusions): 24682
 
